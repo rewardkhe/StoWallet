@@ -29,9 +29,22 @@
 		12C809762DB84A280063F523 /* projectStoreCardForeverUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = projectStoreCardForeverUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		12C809902DB8890D0063F523 /* Exceptions for "projectStoreCardForever" folder in "projectStoreCardForever" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 12C8095B2DB84A280063F523 /* projectStoreCardForever */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		12C8095E2DB84A280063F523 /* projectStoreCardForever */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				12C809902DB8890D0063F523 /* Exceptions for "projectStoreCardForever" folder in "projectStoreCardForever" target */,
+			);
 			path = projectStoreCardForever;
 			sourceTree = "<group>";
 		};
@@ -399,6 +412,7 @@
 				DEVELOPMENT_TEAM = LB3Z8Z885Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = /Users/nighthawk/Xcode/projectStoreCardForever/projectStoreCardForever/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -428,6 +442,7 @@
 				DEVELOPMENT_TEAM = LB3Z8Z885Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = /Users/nighthawk/Xcode/projectStoreCardForever/projectStoreCardForever/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

@@ -1,10 +1,3 @@
-//
-//  projectStoreCardForeverUITests.swift
-//  projectStoreCardForeverUITests
-//
-//  Created by Nighthawk on 23/4/2025.
-//
-
 import XCTest
 
 final class projectStoreCardForeverUITests: XCTestCase {

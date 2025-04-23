@@ -1,10 +1,3 @@
-//
-//  projectStoreCardForeverTests.swift
-//  projectStoreCardForeverTests
-//
-//  Created by Nighthawk on 23/4/2025.
-//
-
 import Testing
 @testable import projectStoreCardForever
 
