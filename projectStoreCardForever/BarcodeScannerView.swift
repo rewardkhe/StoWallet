@@ -1,0 +1,8 @@
+//
+//  BarcodeScannerView.swift
+//  projectStoreCardForever
+//
+//  Created by Nighthawk on 23/4/2025.
+//
+
+import Foundation
